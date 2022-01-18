@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo! 👋
 
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/maysagoncalves29">
