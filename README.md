@@ -1,6 +1,5 @@
-### Olá! Eu sou Maysa 👋
+### Olá, seja bem vindo! 👋
 
-- 🌱 Estou estudando JavaScript.
 - 😄 Pronouns: ela/dela
 
 <div align="center">
