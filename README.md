@@ -1,4 +1,4 @@
-### Olá! Eu sou a Maysa Gonçalves 👋
+### Olá! Eu sou Maysa 👋
 
 - 🌱 Estou estudando JavaScript.
 - 😄 Pronouns: ela/dela
