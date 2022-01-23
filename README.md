@@ -1,4 +1,4 @@
-### Olá, seja bem vindo! 👋
+### Olá, que tal mais um café?
 
 - 😄 Pronouns: she/her
 
