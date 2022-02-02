@@ -2,6 +2,9 @@
 ### />
 
 - 😄 Pronouns: she/her
+- 📚 Compartilho minhas atividades aqui para me auxiliar nos estudos e ter um desempenho melhor.
+- 🧐 Sou muito curiosa com tudo.
+- ✨ Amante do café (não vivo sem) e dos livros.
 
 <div align="center">
   <a href="https://github.com/maysagoncalves29">
