@@ -1,10 +1,14 @@
 ### < Olá, que tal mais um café? ☕
 ### />
+ 
+ ### Sobre mim:
 
 - 😄 Pronouns: she/her
 - 📚 Compartilho minhas atividades práticas aqui para me auxiliar nos estudos e ter um desempenho melhor.
 - 🧐 Curiosa.
 - ✨ Amante do café (não vivo sem) da música e dos livros.
+
+### Linguagens que utilizo:
 
 <div align="center">
   <a href="https://github.com/maysagoncalves29">
@@ -12,17 +16,22 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysagoncalves29&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+ ### Linguagens que estudo: 
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Maysa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maysa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maysa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="maysa-pic" height="200" style="border-radius: 50px;" src="https://media.discordapp.net/attachments/932952231785930767/932955473513185320/2838166b7a9f30d3346f1be49ef3e4e7.jpg?width=892&height=630">
+    <img align="right" alt="maysa-pic" height="200" style="border-radius: 50px;" src="https://media.discordapp.net/attachments/932952231785930767/932955473513185320/2838166b7a9f30d3346f1be49ef3e4e7.jpg?width=892&height=630">
 </div>
   
   ##
   
   <div>
      
+ ### Minhas redes sociais:
+    
+    
   <a href="https://www.instagram.com/_maysaa.g/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pZ39AEvh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:maysagoncalves2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
