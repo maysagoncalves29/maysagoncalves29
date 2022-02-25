@@ -8,7 +8,7 @@
 - 🧐 Curiosa.
 - ✨ Amante do café (não vivo sem) da música e dos livros.
 
-### Linguagens que utilizo:
+### Linguagens utilizadas:
 
 <div align="center">
   <a href="https://github.com/maysagoncalves29">
