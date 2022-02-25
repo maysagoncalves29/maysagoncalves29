@@ -1,5 +1,4 @@
 ### < Que a força e o café esteja com você ☕
-
 <img width="100%" align="center" src="https://images-ext-1.discordapp.net/external/s0WaL74Ujv0JuwNUR1okp-cP6kpSNoJQtucR7r9cFLI/https/bestanimations.com/Sci-Fi/StarWars/yoda-sat-wars-animated-gif-3.gif">
 
 ### />
