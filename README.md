@@ -2,17 +2,18 @@
 ### />
  
  ### Sobre mim:
-
 - 😄 Pronouns: she/her
 - 📚 Compartilho minhas atividades práticas aqui para me auxiliar nos estudos e ter um desempenho melhor.
 - 🧐 Curiosa.
 - ✨ Amante do café (não vivo sem) da música e dos livros.
 
+    <img align="center" alt="maysa-pic1" height="150" style="center;" src="https://images-ext-2.discordapp.net/external/iDCTQVh19I-u79m1lZ3b1HJvicWbdOWGKGkjXPd2boE/%3Fitemid%3D11810055/https/media1.tenor.com/images/ece0713676b92973b1cebcbcf6996b1e/tenor.gif">
+
 ### Linguagens utilizadas:
 
 <div align="center">
   <a href="https://github.com/maysagoncalves29">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=maysagoncalves29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maysagoncalves29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysagoncalves29&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -22,7 +23,7 @@
   <img align="center" alt="Maysa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maysa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maysa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="maysa-pic" height="200" style="border-radius: 50px;" src="https://media.discordapp.net/attachments/932952231785930767/932955473513185320/2838166b7a9f30d3346f1be49ef3e4e7.jpg?width=892&height=630">
+   
 </div>
   
   ##
