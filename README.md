@@ -16,6 +16,8 @@
     <img height="115em" src="https://images-ext-2.discordapp.net/external/se1CL0ovuJyLBRpMJ_ld1EgFezzbPC2kNJdbev_tgqY/https/magiagifs.com.br/wp-content/uploads/2019/08/gif-meme7.gif">
     <img height="115em" src="https://images-ext-2.discordapp.net/external/h6ly-8d_jywlTyteQnfWklBsK_UDfM4mI6eiLFZ71bU/https/media.tenor.com/images/07915186aa7a30d3f5f1397584500cec/tenor.gif">
     <img height="115em" src="https://images-ext-2.discordapp.net/external/_fXJ6L8o8sDzx-klFS3SiYw6n7bW2p5BmJQxAd6-3vQ/%3Frik%3DNsxhvkWIW0caAw%26pid%3DImgRaw%26r%3D0/https/th.bing.com/th/id/R.807406554a3463c2c2e97ac4c56c2624?width=783&height=427">
+    <img height="115em" src="https://images-ext-2.discordapp.net/external/-MP2Ew463tV5qGfn8od68CX2x8ayEGUN1UIeu8uUKPw/https/inourishgently.com/wp-content/uploads/2016/04/lisa-vegan-gif-3.gif?width=569&height=427">
+ 
 </p>
 
 <h3 align="center"> <b>💻 GitHub Stats: </b> </h3>
