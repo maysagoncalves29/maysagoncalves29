@@ -18,7 +18,7 @@
     <img height="115em" src="https://images-ext-2.discordapp.net/external/_fXJ6L8o8sDzx-klFS3SiYw6n7bW2p5BmJQxAd6-3vQ/%3Frik%3DNsxhvkWIW0caAw%26pid%3DImgRaw%26r%3D0/https/th.bing.com/th/id/R.807406554a3463c2c2e97ac4c56c2624?width=783&height=427">
 </p>
 
-<h3 align="center"> <b>💻 Linguagens utilizadas: </b> </h3>
+<h3 align="center"> <b>💻 Git Statu's: </b> </h3>
 
 <div align="center">
   <a href="https://github.com/maysagoncalves29">
