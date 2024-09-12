@@ -23,9 +23,10 @@
 <h3 align="center"> <b>💻 GitHub Stats: </b> </h3>
 
 <div align="center">
-  <a href="https://github.com/maysagoncalves29">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=maysagoncalves29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysagoncalves29&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://github.com/maysagoncalves29">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maysagoncalves29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysagoncalves29&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
   
  <h3 align="center"> <b>📚 O que estudo </b> </h3>
@@ -47,7 +48,6 @@
     
     
   <a href="https://www.instagram.com/_maysaa.g/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pZ39AEvh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:maysagoncalves2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maysa-goncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
