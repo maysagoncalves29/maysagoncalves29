@@ -28,15 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysagoncalves29&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
-  
- <h3 align="center"> <b>📚 O que estudo </b> </h3>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Maysa-Js" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Maysa-HTML" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maysa-CSS" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt "Maysa-JAVA" height="70" width= "50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt "Maysa-SQL" height="70" width= "50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ 
    
 </div>
   
