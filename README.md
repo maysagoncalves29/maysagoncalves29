@@ -35,6 +35,11 @@
   ##
   
   <div>
+  <div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{maysagoncalves29}/count.svg" /></p> 
+  <br>
+</div>
      
 <h3 align="center"> <b> 🌎 Minhas redes sociais: </b> </h3>
     
