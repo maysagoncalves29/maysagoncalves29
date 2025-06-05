@@ -6,9 +6,13 @@
  
  <h3 align="center"> <b> 🤓 Sobre mim: </b> </h3>
 - 🏢 Analista Júnior na Avanade Brasil
+
 - 😄 Pronouns: she/her
+  
 - 📚 Compartilho minhas atividades práticas aqui para me auxiliar nos estudos e ter um desempenho melhor.
+  
 - 🧐 Curiosa.
+ 
 - ✨ Amante do café (não vivo sem) da música e dos livros.
     <p align="center">
     <img height="115em" src="https://images-ext-2.discordapp.net/external/iDCTQVh19I-u79m1lZ3b1HJvicWbdOWGKGkjXPd2boE/%3Fitemid%3D11810055/https/media1.tenor.com/images/ece0713676b92973b1cebcbcf6996b1e/tenor.gif">
