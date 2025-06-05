@@ -5,7 +5,7 @@
 
  
  <h3 align="center"> <b> 🤓 Sobre mim: </b> </h3>
- 
+- 🏢 Analista Júnior na Avanade Brasil
 - 😄 Pronouns: she/her
 - 📚 Compartilho minhas atividades práticas aqui para me auxiliar nos estudos e ter um desempenho melhor.
 - 🧐 Curiosa.
