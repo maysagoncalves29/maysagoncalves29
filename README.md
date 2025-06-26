@@ -10,9 +10,7 @@
 
 - 😄 Pronouns: she/her
   
-- 📚 Compartilho minhas atividades práticas aqui para me auxiliar nos estudos e ter um desempenho melhor.
-  
-- 🧐 Curiosa.
+- 📚 Compartilho minhas atividades práticas aqui.
  
 - ✨ Amante do café (não vivo sem) da música e dos livros.
     <p align="center">
